@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch MyForm",
+            "request": "launch",
+            "mainClass": "MyForm",
+            "projectName": "ProjectZ_7bb78037"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyForm",
+            "request": "launch",
+            "mainClass": "MyForm",
+            "projectName": "examen java_29c09ec4"
+        },
+        {
+            "type": "java",
+            "name": "Launch MyList",
+            "request": "launch",
+            "mainClass": "MyList",
+            "projectName": "examen java_29c09ec4"
+        },
+        {
+            "type": "java",
+            "name": "Launch TP1",
+            "request": "launch",
+            "mainClass": "TP1"
+        },
+        {
+            "type": "java",
+            "name": "Launch fenetreresponsive",
+            "request": "launch",
+            "mainClass": "fenetreresponsive"
+        },
+        {
+            "type": "java",
+            "name": "Launch tp3",
+            "request": "launch",
+            "mainClass": "tp3"
+        }
+    ]
+}
